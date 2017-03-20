@@ -46,22 +46,24 @@
 
 《数字电子技术》（第10版），电子工业出版社
 
-<img>![](/assets/1.PNG)<img>
+![](/assets/1.PNG)
 
-Two Biggest Problems of Digital Techniques 
-The real world is analog. 
+**Two Biggest Problems of Digital Techniques **<p>
+The real world is analog.<p> 
 Processing digitized signals takes time. 
 
-Four Steps to Deal with Analog Quantities 
-Convert the physical variable to an electrical signal (analog). 
-Convert the electrical (analog) signal into digital form. 
-Process (operate on) the digital information. 
-Convert the digital outputs back to real -world analog form. 
+**Four Steps to Deal with Analog Quantities**<p> 
+Convert the physical variable to an electrical signal (analog). <p>
+Convert the electrical (analog) signal into digital form.<p> 
+Process (operate on) the digital information. <p>
+Convert the digital outputs back to real -world analog form. <p>
 
-The present and future is digital
-Transport 
-Communication 
-Multimedia 
-… 
+![](/assets/2.PNG)
+
+**The present and future is digital**<p>
+Transport <p>
+Communication <p>
+Multimedia <p>
+......
 
 
