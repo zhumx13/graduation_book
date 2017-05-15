@@ -5,45 +5,17 @@
 
 ###主讲教师：周睿 zr@lzu.edu.cn
 
-####兰州大学分布式与嵌入式系统实验室 （本部飞云楼531）
+####兰州大学分布式与嵌入式系统实验室 
 
 #####Distributed & Embedded System Lab \(DSLab\) http:\/\/dslab.lzu.edu.cn
 
 ######《数字逻辑（数字电路）》课程基本信息
 
-
-
-课程编号：2043022
-
-
-
-课程性质：必修
-
-
-
-适用班级：计算机基地、计算机科学与技术、 信息安全
-
-
-
-开课学期：第四学期
-
-
-
 先修课程：模拟电子线路、离散数学
-
-
 
 后续课程：计算机组成原理、接口与通讯
 
-
-
 学时：54
-
-
-
-学分：3
-
-
 
 **课程性质与目的**
 
@@ -71,39 +43,23 @@
 
 《数字电路逻辑设计》，人民邮电出版社
 
-
-
 《数字电子技术基础》（第5版），高等教育出版 社
-
-
 
 《数字逻辑》（第2版），机械工业出版社
 
-
-
 《数字系统原理及应用》（第11版），科学出版 社
-
-
 
 《数字设计和计算机体系结构》（第2版），机械 工业出版社
 
-
-
 《数字电子技术》（第10版），电子工业出版社
 
-
-
 ![](/assets/1.PNG)
-
-
 
 **Two Biggest Problems of Digital Techniques **<p>
 
 The real world is analog.<p>
 
 Processing digitized signals takes time.
-
-
 
 **Four Steps to Deal with Analog Quantities**<p>
 
